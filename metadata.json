@@ -1,0 +1,6 @@
+{
+  "name": "BukuCuan",
+  "description": "Sistem SaaS manajemen keuangan, stok barang UMKM dengan supplier terintegrasi, notifikasi pesanan otomatis, laporan profit harian, dan visualisasi interaktif database PostgreSQL & JWT, bcrypt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
